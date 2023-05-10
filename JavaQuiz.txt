@@ -1,0 +1,41 @@
+Which of this keyword must be used to inherit a class?
+extends )super )this )extent
+-
+Which of these is a correct way of inheriting class A by class B?
+class B extends A {} )class B + class A {} )class B inherits class A {} )class B extends class A {}
+-
+________ is wrapping of data into a single unit called class.  ?
+Encapsulation )
+-
+What is the process of defining a method in a subclass having same name & type signature as a method in its superclass?
+Method overriding )Method overloading )Method hiding)None of the mentioned
+-
+Polymorphism is when?
+objects of different classes can respond to the same message)different shapes exist)one class inherits from another class)a variable is protected
+-
+Which of these modifiers' means that the subclass cannot see it?
+private)public)package)protected
+-
+Which of the following option leads to the portability and security of Java?
+Bytecode is executed by JVM )Use of exception handling)The applet makes the Java code secure and portable)Dynamic binding between objects
+-
+Where an object of a class get stored?
+Heap)Disk)Stack)File
+-
+Which of the following is the smallest integer data type ?
+byte)long )int)short
+-
+_________ refers to the act of representing essential details.   ?
+Abstraction )
+-
+_________ is the process in which objects of one class can link and share some common properties from the objects of another class.    ?
+Inheritance )
+-
+An _________ is an instance or of a copy of a class.    ?
+Object)
+-
+A _______ is blueprint that defines certain characteristics and behavior. It is simply a representation of different types of objects.    ?
+Class)
+-
+Using which of the following, multiple inheritance in Java can be implemented?
+Interfaces)Multithreading)Protected methods)Private methods
